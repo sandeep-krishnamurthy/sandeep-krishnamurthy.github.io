@@ -1,9 +1,9 @@
 ---
 title: SKM Talks
-baseurl: "/home"
+baseurl: ""
 desc: Blog about my thoughts on AI, Leadership and more...
-about: I am Sandeep. I work as a software engineer with Google Cloud AI team. In the past I worked with AWS AI. I contribute to open source software - Apache MXNet, Keras, Deep Learning Benchmarks. I am working on my mission - "Why should using AI technologies (Machine Learning, Deep Learning) in every application be more difficult and different than using a File IO library?".
-image: {{ site.baseurl }}/_includes/resources/sandeep.jpg
+about: I am Sandeep. I work as a software engineer with Google Cloud AI team. In the past I worked with AWS AI. I contribute to open source software - Apache MXNet, Keras, Deep Learning Benchmarks. I am working on my mission - "Why should using AI technologies (Machine Learning, Deep Learning) in every application be more difficult and different than using a File IO library?"
+image: "img/sandeep.jpg"
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
