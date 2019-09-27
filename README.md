@@ -1,4 +1,10 @@
-# Minimal Text
+# Credits
+
+This Jekyll theme is derived from - https://github.com/clarkhacks/Minimal-Text.
+
+# Usage Documentation
+
+## Minimal Text
 
 Minimal Text is a clean and lightweight Jekyll Theme
 
@@ -22,7 +28,3 @@ paginate_path: "/:num/"
 ```
 `paginate` in `_config.yml` is the number of post blocks that will appear on a single page.
 `paginate_path` is at what location your blog pages will be displayed.
-
-__The documentation has been implemented because of user questions.__ For more documentation to be please request what you need defined.
-
-![screenshot](screenshot.jpg)
